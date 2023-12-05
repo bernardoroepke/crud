@@ -1,7 +1,6 @@
-# crud
-Arquitetura MVC
+# Projeto-Agenda
 
-Esse é o primeito projeto que utilizei a arquitetura MVC
+Primeiro projeto que fiz utilizando a arquitetura MVC
 Em cima dele construí um crud simples tanto de usuários quanto de contatos (agenda online)
 
 Pode ser visto em https://mroepke.com.br
